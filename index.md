@@ -1,6 +1,6 @@
 ---
 address: 106-dong 605, UNIST-gil 50
-title: Curriculum Vitae
+title: Wonbae Kim
 ---
 
 Master's degree in computer science. Currently Ph.D. student.
