@@ -50,7 +50,9 @@ linkedin_username: wonbae-kim-7a4420112
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Ph.D. in Computer Science and Engineering (Expected Feb 2023), Ulsan National Institue of Science and Technology (UNIST).
+  Ph.D. in Computer Science and Engineering (Expected Feb 2023)
+
+  Ulsan National Institue of Science and Technology (UNIST)
 
   - [CV](https://wonbaekimys.github.io/assets/cv.pdf)
   - [Google scholar](https://scholar.google.com/citations?user=apxpRSMAAAAJ&hl=en)
