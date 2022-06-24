@@ -17,7 +17,8 @@ technologies.
 
 # Education
 
-Ph.D. in Computer Science and Engineering Ulsan National Institute of
+Mar 2017 – Feb 2023 (Expected)
+:   **Ph.D. in Computer Science and Engineering**, Ulsan National Institute of
 Science and Technology (UNIST) Ulsan, Korea (Co-advisor: Prof. Young-ri
 Choi and Prof. Beomseok Nam)
 
