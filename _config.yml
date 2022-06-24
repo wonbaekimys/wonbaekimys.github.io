@@ -7,12 +7,12 @@ version: 2
 
 # Personal info
 name: Wonbae Kim
-title: Ph.D. in Computer Science and Engineering (Expected)
+# title: Ph.D. in Computer Science and Engineering (Expected)
 email: wonbaekimys@gmail.com
 website: wonbaekimys.github.io
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 #twitter_username: facespics
@@ -30,7 +30,9 @@ linkedin_username: wonbae-kim-7a4420112
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-#additional_links:
+additional_links:
+  - title: CV
+    url: assets/cv.pdf
 #- title: itsgoingto.be
 #  icon: fas fa-globe
 #  url: https://www.itsgoingto.be
@@ -48,7 +50,8 @@ linkedin_username: wonbae-kim-7a4420112
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Passionate about learning new things and developing innovative technologies.
+  Ph.D. in Computer Science and Engineering (Expected Feb 2023)
+  Ulsan National Institue of Science and Technology (UNIST)
 
 content:
   - title: Research Interests
